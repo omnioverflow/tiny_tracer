@@ -5,6 +5,7 @@
 //#include "../engine/public/color.h"
 //#include "engine/public/color.h"
 #include "color.h"
+#include "bmp/bmp.h"
 
 namespace tinytracer
 {
