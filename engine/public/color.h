@@ -1,5 +1,7 @@
 #pragma once
 
+#include "bmp/bmp.h"
+
 namespace color
 {
   class RGBA
