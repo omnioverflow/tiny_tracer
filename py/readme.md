@@ -13,3 +13,13 @@ Python prototype of the path tracer.
    execute the following commands in a Python console:
    >>> import tkinter
    >>> tkinter._test()
+
+===========================================
+   TODOs:
+    - Use TkInter to create a simple window
+    - Show an image from the local file system in 
+      the window (OpenCV is the simplest way?)
+    - Modify (alter) some pixels in the image 
+      in order to test that this dumb solution
+      might be used to draw rendering results 
+      from the path tracer.
